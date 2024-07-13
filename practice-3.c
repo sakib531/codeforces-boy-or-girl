@@ -2,7 +2,7 @@
 #include <string.h>
 #include <ctype.h>
 int main() {
-    char s[50];
+    char s[100];
     int distinctCount = 0;
     printf("Enter the sentence:\n");
     gets(s);
